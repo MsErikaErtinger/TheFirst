@@ -1,0 +1,11 @@
+header {text-align: center;}
+
+p {font-size: large;}
+
+table, td, th {border: 2px dotted grey;}
+
+td {
+    padding: 15px;
+}
+
+#nevem {font-weight: bold; font-style: italic;}
